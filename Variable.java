@@ -1,4 +1,4 @@
-package Project;
+package Project1;
 
 public class Variable {
 
